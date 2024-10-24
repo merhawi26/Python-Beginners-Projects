@@ -22,8 +22,6 @@ while True:
     ):
         player1_wins_counter += 1
 
-        
-
         print(
             "Player 1 win 😎\nWin Result : Player 1 = %s, Player 2 = %s, Game Tie =%s "
             % (player1_wins_counter, player2_wins_counter, game_tie_counter)
