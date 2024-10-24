@@ -47,9 +47,7 @@ while True:
             "The game is a tie 😟\nWin Result :Player 1 = %s, Player 2 = %s Game Tie = %s "
             % (player1_wins_counter, player2_wins_counter, game_tie_counter)
         )
-    # #Modify the game so that the first player (or computer) to win two out of three
-    # rounds is declared the overall winner. This adds a competitive aspect to the
-    # game.
+   
 
     # if player1_wins == 2 and player2_wins == 1:
     # break
